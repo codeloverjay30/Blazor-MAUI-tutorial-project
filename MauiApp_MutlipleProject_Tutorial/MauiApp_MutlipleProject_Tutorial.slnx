@@ -1,0 +1,15 @@
+<Solution>
+  <Project Path="MauiApp_MutlipleProject_Tutorial/MauiApp_MutlipleProject_Tutorial.Droid/MauiApp_MutlipleProject_Tutorial.Droid.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="MauiApp_MutlipleProject_Tutorial/MauiApp_MutlipleProject_Tutorial.iOS/MauiApp_MutlipleProject_Tutorial.iOS.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="MauiApp_MutlipleProject_Tutorial/MauiApp_MutlipleProject_Tutorial.Mac/MauiApp_MutlipleProject_Tutorial.Mac.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="MauiApp_MutlipleProject_Tutorial/MauiApp_MutlipleProject_Tutorial.WinUI/MauiApp_MutlipleProject_Tutorial.WinUI.csproj">
+    <Platform Project="x64" />
+  </Project>
+  <Project Path="MauiApp_MutlipleProject_Tutorial/MauiApp_MutlipleProject_Tutorial/MauiApp_MutlipleProject_Tutorial.csproj" />
+</Solution>
